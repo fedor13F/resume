@@ -1,2 +1,3 @@
 # __Резюме__
-<img width="595" height="842" alt="резюме" src="https://github.com/user-attachments/assets/d47c2653-03fc-40d7-9d85-98608d016de1" />
+<img width="733" height="1032" alt="Снимок экрана 2026-06-11 в 17 02 06" src="https://github.com/user-attachments/assets/a01a74f0-0626-4484-a99c-1200273e5235" />
+
